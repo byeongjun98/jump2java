@@ -42,7 +42,5 @@ public class TypeCasting {
             }
         * 실수 형태의 문자열을 숫자형으로 바꾸려면 Double.parseDouble()을 이용해 실수로 바꾼 후 사용
         */
-
-        // final
     }
 }
